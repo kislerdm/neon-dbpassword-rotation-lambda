@@ -3,7 +3,7 @@ module github.com/kislerdm/aws-lambda-secret-rotation/plugin/neon
 go 1.19
 
 require (
-	github.com/aws/aws-lambda-go v1.37.0
+	github.com/aws/aws-lambda-go v1.40.0
 	github.com/aws/aws-sdk-go-v2/config v1.18.8
 	github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.18.1
 	github.com/kislerdm/aws-lambda-secret-rotation v0.1.1
